@@ -7,7 +7,7 @@ A Python library for error suggestions.
 ## Installation
 
 ```bash
-pip install error_suggester
+pip install error-suggester
 ```
 
 ## Usage

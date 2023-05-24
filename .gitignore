@@ -1,1 +1,4 @@
 __init__.py
+**/build/*
+**/dist/*
+**/error_suggester.egg-info/*
